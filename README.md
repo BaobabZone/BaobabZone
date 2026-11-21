@@ -2,13 +2,13 @@
 
 **Soul over digits.**
 
-*Africa deserves dignity, not dependency.*
-
 Economic participation infrastructure for emerging markets across Africa: ultra-simple, mobile-native systems built for real-world behavior, from classifieds and SaaS to payments, credit and ownership.
 
 *Infrastructure de participation économique pour les marchés émergents d'Afrique : des systèmes ultra-simples, pensés pour le mobile et pour les usages réels, des petites annonces et du SaaS jusqu'aux paiements, au crédit et à la propriété.*
 
-**Participation → Trust → Opportunity → Ownership**
+**Participation → Trust → Opportunity → Ownership → Dignity**
+
+*Africa deserves dignity, not dependency.*
 
 ## Products · Produits
 
