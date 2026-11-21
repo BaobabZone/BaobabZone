@@ -11,6 +11,7 @@ Economic participation infrastructure for emerging markets across Africa: ultra-
 **Participation → Trust → Opportunity → Ownership**
 
 📍 Office · Bureau : Windhoek, Namibia
+
 🏢 Registered address · Siège social : 30 N Gould St. Suite R, Sheridan, WY 82801, USA
 
 ## Products · Produits
