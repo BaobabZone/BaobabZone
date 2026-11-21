@@ -19,10 +19,9 @@ Economic participation infrastructure for emerging markets across Africa: ultra-
 | **SME SaaS** · example for small businesses · *exemple pour les PME* | [orthodox.baobab.guide](https://orthodox.baobab.guide) |
 
 ## Links · Liens
-- Website · Site : https://baobabzone.co
 - All links · Tous les liens : https://baobab.pw
 - Crunchbase : https://www.crunchbase.com/organization/baobab-zone-co
-- F6S : https://www.f6s.com/baobab.zone
+- PitchBook : https://pitchbook.com/profiles/company/615732-85
 
 ---
 Source code is private. · Le code source est privé.
