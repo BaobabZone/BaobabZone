@@ -10,13 +10,16 @@ Economic participation infrastructure for emerging markets across Africa: ultra-
 
 **Participation → Trust → Opportunity → Ownership**
 
+📍 Office · Bureau : Windhoek, Namibia
+🏢 Registered address · Siège social : 30 N Gould St. Suite R, Sheridan, WY 82801, USA
+
 ## Products · Produits
 
 | | |
 |---|---|
-| **Kumba** · road freight exchange in the DRC · *bourse du fret routier en RDC* | [kumba.cd](https://kumba.cd) · [app demo](https://demo.kumba.cd) · [admin demo](https://demo-admin.kumba.cd) |
 | **Baobab** · ultra-light classifieds app · *petites annonces ultra-légères* | [dev.baobab.guide](https://dev.baobab.guide) |
 | **SME SaaS** · example for small businesses · *exemple pour les PME* | [orthodox.baobab.guide](https://orthodox.baobab.guide) |
+| **Kumba** · road freight exchange in the DRC · *bourse du fret routier en RDC* | [kumba.cd](https://kumba.cd) · [app demo](https://demo.kumba.cd) · [admin demo](https://demo-admin.kumba.cd) |
 
 ## Links · Liens
 - All links · Tous les liens : https://baobab.pw
